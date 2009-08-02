@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WebRequestsWithFSharp", "WebRequestsWithFSharp\WebRequestsWithFSharp.fsproj", "{44FA42BD-3EDA-4941-9D10-5F129C78E04A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3D6A6388-DAC2-49D2-9865-0519147B45CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRequestsWithCSharp", "WebRequestsWithCSharp\WebRequestsWithCSharp.csproj", "{D11732B9-9B90-4268-BF51-DC29A02F0F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44FA42BD-3EDA-4941-9D10-5F129C78E04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44FA42BD-3EDA-4941-9D10-5F129C78E04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44FA42BD-3EDA-4941-9D10-5F129C78E04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44FA42BD-3EDA-4941-9D10-5F129C78E04A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6A6388-DAC2-49D2-9865-0519147B45CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A6388-DAC2-49D2-9865-0519147B45CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A6388-DAC2-49D2-9865-0519147B45CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A6388-DAC2-49D2-9865-0519147B45CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11732B9-9B90-4268-BF51-DC29A02F0F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11732B9-9B90-4268-BF51-DC29A02F0F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11732B9-9B90-4268-BF51-DC29A02F0F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11732B9-9B90-4268-BF51-DC29A02F0F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

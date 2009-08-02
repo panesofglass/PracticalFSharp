@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\FSharp-1.9.6.2\bin\fsc" -a -O -o FinancialNotStandalone.dll publicenums.fs common.fs tvm.fs loan.fs irr.fs daycountbasis.fs depreciation.fs bonds.fs oddbonds.fs tbill.fs misc.fs wrapperdotnettype.fs

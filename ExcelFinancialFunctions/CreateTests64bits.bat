@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\FSharp-1.9.6.2\bin\fsc" -r "C:\Program Files (x86)\Microsoft Visual Studio 9.0\Visual Studio Tools for Office\PIA\Office12\Microsoft.Office.Interop.Excel.dll" -O -o FinancialTests.exe publicenums.fs common.fs tvm.fs loan.fs irr.fs daycountbasis.fs depreciation.fs bonds.fs oddbonds.fs tbill.fs misc.fs excel.fs testinfrastructure.fs testsdef.fs testsexec.fs
